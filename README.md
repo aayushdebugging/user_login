@@ -7,7 +7,7 @@ This Flutter app demonstrates a simple login and signup flow with a theme inspir
 - User signup with name, username, phone number, and password.
 - Simulated OTP verification during signup.
 - User login with username and password.
-- Responsive and cyber-themed UI.
+- Responsive UI.
 
 ## Getting Started
 
